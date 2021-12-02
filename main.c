@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-	printf("Hi, Example_repo!\n");
+	printf("Hi, Example\n");
 
 	return 0;
 }
